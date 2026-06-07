@@ -1,6 +1,6 @@
 # 🌌 Website Portfolio Personal
 
-Website ini merupakan portfolio pribadi yang saya buat menggunakan PHP Native dan MySQL. Website ini berfungsi untuk menampilkan data diri, pengalaman, sertifikat, prestasi, serta hasil karya secara dinamis melalui dashboard admin.
+Website ini merupakan portfolio pribadi yang saya buat menggunakan PHP Native dan MySQL. Website ini berfungsi untuk menampilkan data diri, pengalaman, sertifikat, prestasi, serta hasil karya saya secara dinamis melalui dashboard admin.
 
 ---
 
@@ -23,7 +23,7 @@ Website ini merupakan portfolio pribadi yang saya buat menggunakan PHP Native da
 
 ## 🖥️ Versi Website
 
-Website ini memiliki dua versi implementasi:
+Website ini memiliki dua versi:
 
 - 🔹 **Website Dinamis (Current Project)**  
   Dibangun menggunakan PHP Native + MySQL dengan sistem dashboard admin.
@@ -45,18 +45,6 @@ Website ini memiliki dua versi implementasi:
 
 ---
 
-## 📸 Tampilan Website
-
-Tambahkan screenshot berikut:
-
-- Halaman Beranda
-- Section Tentang Saya
-- Dashboard Admin
-- CRUD Portfolio / Sertifikat / Prestasi
-- Sistem Komentar Pengunjung
-
----
-
 ## ⚙️ Cara Menjalankan Project
 
 1. Clone repository ini
@@ -67,12 +55,12 @@ Tambahkan screenshot berikut:
 
 ---
 
-## 📝 Catatan
+## 📝 Notes
 
-Project ini dikembangkan sebagai website portfolio pribadi untuk tugas pemrograman web. Website ini menunjukkan proses transisi dari website statis menjadi website dinamis dengan sistem CRUD dan dashboard admin.
+Project ini dikembangkan sebagai website portfolio pribadi untuk tugas pemrograman web. Saya melakukan transisi dari website statis menjadi website dinamis dengan sistem CRUD dan dashboard admin.
 
 ---
 
-## 👤 Pembuat
+## 👤 Author
 
 Nadya Rabila
