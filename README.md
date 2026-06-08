@@ -8,12 +8,12 @@ Website ini merupakan portfolio pribadi yang saya buat menggunakan PHP Native da
 
 Website ini memiliki dua versi:
 
--  **Website Dinamis (Current Project)**  
+-  **Website Dinamis (Project Saat Ini)**  
   Dibangun menggunakan PHP Native + MySQL dengan sistem dashboard admin.
 
--  **Website Statis (Versi Awal / Referensi Desain)**  
+-  **Website Statis (Versi Awal)**  
   https://naradev.netlify.app  
-  Website ini merupakan versi awal dengan tampilan yang sama, sebelum dikembangkan menjadi sistem dinamis.
+  Website ini merupakan versi awal dengan tampilan yang sama, sebelum dikembangkan menjadi website dinamis.
 
 ---
 
