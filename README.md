@@ -1,10 +1,23 @@
-# 🌌 Website Portfolio Personal
+# Website Portfolio Personal
 
 Website ini merupakan portfolio pribadi yang saya buat menggunakan PHP Native dan MySQL. Website ini berfungsi untuk menampilkan data diri, pengalaman, sertifikat, prestasi, serta hasil karya saya secara dinamis melalui dashboard admin.
 
 ---
 
-## ✨ Fitur Utama
+## Versi Website
+
+Website ini memiliki dua versi:
+
+-  **Website Dinamis (Current Project)**  
+  Dibangun menggunakan PHP Native + MySQL dengan sistem dashboard admin.
+
+-  **Website Statis (Versi Awal / Referensi Desain)**  
+  https://naradev.netlify.app  
+  Website ini merupakan versi awal dengan tampilan yang sama, sebelum dikembangkan menjadi sistem dinamis.
+
+---
+
+## Fitur Utama
 
 - Sistem Login Admin (menggunakan session)
 - Dashboard Admin untuk pengelolaan data
@@ -21,20 +34,7 @@ Website ini merupakan portfolio pribadi yang saya buat menggunakan PHP Native da
 
 ---
 
-## 🖥️ Versi Website
-
-Website ini memiliki dua versi:
-
-- 🔹 **Website Dinamis (Current Project)**  
-  Dibangun menggunakan PHP Native + MySQL dengan sistem dashboard admin.
-
-- 🔹 **Website Statis (Versi Awal / Referensi Desain)**  
-  https://naradev.netlify.app  
-  Website ini merupakan versi awal dengan tampilan yang sama, sebelum dikembangkan menjadi sistem dinamis.
-
----
-
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 - PHP Native
 - MySQL / MariaDB
@@ -45,7 +45,7 @@ Website ini memiliki dua versi:
 
 ---
 
-## ⚙️ Cara Menjalankan Project
+##  Cara Menjalankan Project
 
 1. Clone repository ini
 2. Import database ke phpMyAdmin
@@ -55,12 +55,12 @@ Website ini memiliki dua versi:
 
 ---
 
-## 📝 Notes
+##  Notes
 
 Project ini dikembangkan sebagai website portfolio pribadi untuk tugas pemrograman web. Saya melakukan transisi dari website statis menjadi website dinamis dengan sistem CRUD dan dashboard admin.
 
 ---
 
-## 👤 Author
+##  Author
 
 Nadya Rabila
