@@ -1,3 +1,4 @@
+![Portfolio Screenshot](Preview_Portfolio.png)
 # Website Portfolio Personal
 
 Website ini merupakan portfolio pribadi yang saya buat menggunakan PHP Native dan MySQL. Website ini berfungsi untuk menampilkan data diri, pengalaman, sertifikat, prestasi, serta hasil karya saya secara dinamis melalui dashboard admin.
