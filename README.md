@@ -14,7 +14,7 @@ Website ini memiliki dua versi:
 
 -  **Website Statis (Versi Awal)**  
   https://naradev.netlify.app  
-  Website ini merupakan versi awal dengan tampilan yang sama, sebelum dikembangkan menjadi website dinamis.
+  Website ini merupakan versi awal dengan tampilan yang sama, sebelum saya kembangkan menjadi website dinamis.
 
 ---
 
